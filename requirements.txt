@@ -11,7 +11,7 @@ keras>=2.13.0
 
 # Computer Vision
 opencv-python>=4.8.0
-pillow>=10.0.0
+pillow>=10.3.0
 
 # Natural Language Processing
 transformers>=4.30.0
@@ -29,7 +29,7 @@ plotly>=5.15.0
 # Jupyter and Development
 jupyter>=1.0.0
 ipython>=8.12.0
-notebook>=7.0.0
+notebook>=7.2.2
 
 # Model Training and Experiment Tracking
 tensorboard>=2.13.0
