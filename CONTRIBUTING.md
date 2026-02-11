@@ -14,9 +14,8 @@ If you find a bug or have a suggestion for improvement:
 ### Contributing Code
 
 1. **Fork the Repository**
-   ```bash
-   git fork https://github.com/mmubashirdev/AI.git
-   ```
+   - Click the "Fork" button on the [repository page](https://github.com/mmubashirdev/AI)
+   - Or use GitHub CLI: `gh repo fork mmubashirdev/AI`
 
 2. **Create a Branch**
    ```bash
