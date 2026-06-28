@@ -1,0 +1,30 @@
+Basic Functions
+
+.head()
+.tail()
+.info()
+.describe()
+.isnull().sum()
+
+Graph Functions 
+
+.histogram
+.scatterplot
+.Box plot
+.line graph
+.Correlation Matrix (-1, 0 ,1)
+
+
+ML
+
+classification - Decision Tree, Random Forest, SUM support vetern machine, XG Boost, KNN, Cat Boost, Naive Buyes, Logistic Regression
+
+Regression - Training, validation, testing
+
+Clustering
+
+
+train test split
+Data - Two phases Training and Validation Suppose 10000 dataset 7000 goes into traning and 3000 goes into validation
+
+we divide model data into 4 variables X train Y train in testing and X test and Y test in validation

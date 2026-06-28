@@ -9,4 +9,8 @@ if x:=True:
   
 x = 10
 
+
+x = 'a'
+
+print(type(x))
 print(7>x<15)
