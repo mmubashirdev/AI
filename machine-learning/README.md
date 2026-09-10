@@ -2,6 +2,10 @@
 
 This directory contains implementations and projects related to traditional machine learning algorithms and techniques.
 
+Structured Data 
+Unstructured Data
+Semi Structured Data
+
 ## Contents
 
 ### Supervised Learning
