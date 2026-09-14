@@ -6,9 +6,18 @@ Structured Data
 Unstructured Data
 Semi Structured Data
 
+Data Preprocessing 
+
+1: Import data
+2: Handle Missing values
+3: Encode Categorical data
+4: Feature Scaling
+5: Train Test Split
+
 ## Contents
 
 ### Supervised Learning
+Labeled Data like training model to detect a message spam or not spam based on past 1000 labeled emails
 - Linear Regression
 - Logistic Regression
 - Decision Trees
@@ -19,6 +28,7 @@ Semi Structured Data
 - Gradient Boosting (XGBoost, LightGBM)
 
 ### Unsupervised Learning
+Unlabled data train based on similarity, grouping
 - K-Means Clustering
 - Hierarchical Clustering
 - DBSCAN
