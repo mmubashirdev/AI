@@ -1,6 +1,7 @@
 # Machine Learning
 
-This directory contains implementations and projects related to traditional machine learning algorithms and techniques.
+This directory contains implementations and projects related to machine learning algorithms and techniques.
+
 
 Structured Data 
 Unstructured Data
@@ -13,6 +14,17 @@ Data Preprocessing
 3: Encode Categorical data
 4: Feature Scaling
 5: Train Test Split
+
+
+data.head()
+data.tail()
+data.describe()
+data.isnull()
+
+handle missing values using mean and method fullna()
+labelEncoder
+StandardScaler
+tain test split 80%-20% 
 
 ## Contents
 
@@ -36,6 +48,10 @@ Unlabled data train based on similarity, grouping
 - t-SNE
 - Autoencoders
 
+### Reinforcement Learning
+- Training Model based on trail and error / Reward and Panelty
+
+![types of machine learning](images/types_of_machine_learning)
 ### Model Evaluation
 - Cross-validation
 - Hyperparameter tuning
@@ -53,4 +69,6 @@ Each subdirectory contains:
 ## Resources
 
 - [Scikit-learn Documentation](https://scikit-learn.org/)
+
+
 - [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
