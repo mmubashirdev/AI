@@ -51,7 +51,7 @@ Unlabled data train based on similarity, grouping
 ### Reinforcement Learning
 - Training Model based on trail and error / Reward and Panelty
 
-![types of machine learning](images/types_of_machine_learning)
+![types of machine learning](images/types_of_machine_learning.png)
 ### Model Evaluation
 - Cross-validation
 - Hyperparameter tuning
